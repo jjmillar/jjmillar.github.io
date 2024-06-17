@@ -403,7 +403,7 @@ body {
         text-decoration: none;
     }
     
-    & a:visited, a:active {
+    & a:link, a:visited, a:active {
         color: var(--clr--white);
     }
 }
