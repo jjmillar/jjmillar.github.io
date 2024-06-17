@@ -353,7 +353,7 @@ body {
 
     & .project__card {
         height: 70%;
-        min-width: 140px;
+        min-width: 130px;
         padding: 1rem;
         border-radius: calc(var(--size--border-radius) * 2);
         background-color: var(--clr--light-blue);
@@ -370,7 +370,7 @@ body {
 
     & a {
         & svg {
-            padding: 0 20px;
+            margin: 0 1rem;
             transform: scale(2.2);
             color: black;
         }
